@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+#text_btn{
+    float: right;
+    position: relative;
+    top: -23px;
+    margin-right: 60px;
+    font-weight: 700;
+}
+#text_btn button{
+    cursor: pointer;
+}
+#img{
+    position: relative;
+    top: 92px;
+    text-align: center
+}
+#img ul{
+	list-style-type: none;
+}
+
+#img ul > li{
+    display: inline-block;
+    margin-left: 25px;
+}
+#bottom_img{
+    float: right;
+    position: relative;
+    top: 101px;
+    margin-right: 60px;
+}
